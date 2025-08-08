@@ -1,3 +1,4 @@
+//Old Die From Yahtzee Game
 #ifndef DIE_H
 #define DIE_H
 #include <string>
