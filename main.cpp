@@ -65,7 +65,7 @@ int main() {
     }
 
 
-    int num = 42;
+    int num = 69; //Is that childish?
     double pi = 3.14159;
     string text = "Dang imma lowkey miss this class";
     Die myDie(6);
